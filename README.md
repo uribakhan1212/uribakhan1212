@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @uribakhan1212
-- 👀 I’m interested in ...
+- 👋 Hi, I’m @uribaparveenkhan
 - 🌱 I’m currently doing bachelors in Artificial Intelligence at FAST NU.
 - 💞️ I'm an outreach officer at GDSC FAST.
 - 📫 How to reach me: i220465@nu.edu.pk
